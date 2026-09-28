@@ -1,0 +1,6 @@
+{
+  "name": "HydroPulse - Smart Bluetooth Water Tank Monitor",
+  "description": "Real-time ultrasonic water level monitor with Bluetooth connectivity, automatic alerts at 0%, 25%, 50%, 75%, and 100%, plus socket connection troubleshooting.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
